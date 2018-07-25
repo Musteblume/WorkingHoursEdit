@@ -1,5 +1,5 @@
 # WorkingHoursEdit
-Editing excel files exported from working hours app on windows so they display vacation days, sick days and overtime.
+Java Tool to generate some additional information based on the [WorkingHours Windows Application](https://www.microsoft.com/en-us/p/workinghours-time-tracking-timesheet/9mv51b301wfd). Edit the exported excel file from working hours and display vacation days, sick days and overtime.
 Repository contains IntelliJIdea Java Project.
 
 
